@@ -1,0 +1,9 @@
+*.pth
+*.pt
+*.ckpt
+
+*__pycache__*
+/data/
+/datasets/
+/outputs/
+/.vscode/
